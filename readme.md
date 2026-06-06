@@ -1,6 +1,6 @@
 # NavCore-UM982-RTK-GNSS-Board
 
-**👉Product Link：**[NavCore-UM982](https://yantechlab.com/products/navcore-um982-rtk-gnss-board)
+👉[NavCore-UM982](https://yantechlab.com/products/navcore-um982-rtk-gnss-board)
 
 <img src="https://github.com/YanTechHub/NavCore-UM982-RTK-GNSS-Board/blob/main/Image/1.jpg?raw=true" title="" alt="1.jpg" width="244">
 
