@@ -1,1 +1,1 @@
-解压密码：1234
+Extraction password: 1234
