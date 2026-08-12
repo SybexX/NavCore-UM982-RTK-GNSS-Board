@@ -4,6 +4,8 @@
 
 ## 1. Restore Default Settings
 
+<img title="" src="https://github.com/YanTechHub/YanTechLab-NavCore-UM982-RTK/blob/main/Image/1.png?raw=true" alt="1.png" width="594">
+
 After installing the **UPrecise** software, connect the device via serial port. Please ensure the **New Line** option is enabled in the serial settings.
 
 ```context
@@ -24,6 +26,8 @@ SAVECONFIG // Save configuration to receiver
 ## 2. Firmware Upgrade
 
 In the **UPrecise** left navigation panel, click **Receiver Upgrade** to enter the firmware upgrade interface. Load the firmware file **UM982_R4.10Build23575**, then click **Soft reset** and **Start** sequentially. The upgrade process will proceed automatically.
+
+![2.png](https://github.com/YanTechHub/YanTechLab-NavCore-UM982-RTK/blob/main/Image/2.png?raw=true)
 
 ---
 
